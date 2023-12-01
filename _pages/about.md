@@ -10,4 +10,4 @@ redirect_from:
 
 I hold a Bachelor's degree in Economics and Master's degree in Computer Science, both from the University of Chicago.
 
-My academic interests are in Econometrics, Machine Learning, and their applications to the empirical estimation of auctions.
+My academic interests are in Econometrics, Machine Learning, Algorithms, and their applications to the empirical estimation of auctions.
