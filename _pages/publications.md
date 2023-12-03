@@ -22,6 +22,11 @@ author_profile: true
 
 **Co-authors**: Kirill Ponomarev (UChicago)
 
+### 2. [What Does It Mean to Be Creepy? Responses to Visualizations of Personal Browsing Activity, Online Tracking, and Targeted Ads](../files/PoPETs_2024_3-paper92.pdf)
+<h6> Nathan Reitinger, Bruce Wen, Michelle L. Mazurek, and Blase Ur. 2023. </h6>
+
+> **Abstract**: Internet companies routinely follow users around the web, building profiles for ad targeting based on inferred attributes. Prior work has shown that these practices, generally, are creepy—but what does that mean? To help answer this question, we substantially revised an open-source browser extension built to observe a user’s browsing behavior and present them with a tracker’s perspective of that behavior. Our updated extension models possible interest inferences far more accurately, integrates data scraped from the user’s Google ad dashboard, and summarizes ads the user was shown. Most critically, it introduces ten novel visualizations that show implications of the collected data, both the mundane (e.g., total number of ads you’ve been served) and the provocative (e.g., your interest in reproductive health, a potentially sensitive topic). We use our extension as a design probe in a week-long field study with 𝑛 = 200 participants. We find that users do perceive online tracking as creepy—but that the meaning of creepiness is far from universal. Participants felt differently about creepiness even when their data presented similar visualizations, and even when responding to the most potentially provocative visualizations—in no case did more than 70% of participants agree that any one visualization was creepy.
+
 
 ## Publications
 
