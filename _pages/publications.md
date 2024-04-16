@@ -22,22 +22,21 @@ author_profile: true
 
 **Co-authors**: Kirill Ponomarev (UChicago)
 
-### 2. [What Does It Mean to Be Creepy? Responses to Visualizations of Personal Browsing Activity, Online Tracking, and Targeted Ads](../files/PoPETs_2024_3-paper92.pdf)
-<h6> Nathan Reitinger, Bruce Wen, Michelle L. Mazurek, and Blase Ur. 2023. </h6>
+## Publications
+
+### 1. [What Does It Mean to Be Creepy? Responses to Visualizations of Personal Browsing Activity, Online Tracking, and Targeted Ads](../files/PoPETs_2024_3-paper92.pdf)
+<h6> Nathan Reitinger, Bruce Wen, Michelle L. Mazurek, and Blase Ur. PoPETs 2024. </h6>
 
 > **Abstract**: Internet companies routinely follow users around the web, building profiles for ad targeting based on inferred attributes. Prior work has shown that these practices, generally, are creepy—but what does that mean? To help answer this question, we substantially revised an open-source browser extension built to observe a user’s browsing behavior and present them with a tracker’s perspective of that behavior. Our updated extension models possible interest inferences far more accurately, integrates data scraped from the user’s Google ad dashboard, and summarizes ads the user was shown. Most critically, it introduces ten novel visualizations that show implications of the collected data, both the mundane (e.g., total number of ads you’ve been served) and the provocative (e.g., your interest in reproductive health, a potentially sensitive topic). We use our extension as a design probe in a week-long field study with 𝑛 = 200 participants. We find that users do perceive online tracking as creepy—but that the meaning of creepiness is far from universal. Participants felt differently about creepiness even when their data presented similar visualizations, and even when responding to the most potentially provocative visualizations—in no case did more than 70% of participants agree that any one visualization was creepy.
 
-
-## Publications
-
-### 1. [Analysis of Google Ads Settings Over Time: Updated, Individualized, Accurate, and Filtered](https://doi.org/10.1145/3603216.3624968)
+### 2. [Analysis of Google Ads Settings Over Time: Updated, Individualized, Accurate, and Filtered](https://doi.org/10.1145/3603216.3624968)
 <h6> Nathan Reitinger, Bruce Wen, Michelle L. Mazurek, and Blase Ur. 2023. Analysis of Google Ads Settings Over Time: Updated, Individualized, Accurate, and Filtered. In Proceedings of the 22nd Workshop on Privacy in the Electronic Society (WPES '23). Association for Computing Machinery, New York, NY, USA, 167–172. https://doi.org/10.1145/3603216.3624968 </h6>
 
 > **Abstract**: Advertising companies and data brokers often provide consumers access to a dashboard summarizing attributes they have collected or inferred about that user. These attributes can be used for targeted advertising. Several studies have examined the accuracy of these collected attributes or users' reactions to them. However, little is known about how these dashboards, and the associated attributes, change over time. Here, we report data from a week-long, longitudinal study (n=158) in which participants used a browser extension automatically capturing data from one dashboard, Google Ads Settings, after every fifth website the participant visited. The results show that Ads Settings is frequently updated, includes many attributes unique to only a single participant in our sample, and is approximately 90% accurate when assigning age and gender. We also find evidence that Ads Settings attributes may dynamically impact browsing behavior and may be filtered to remove sensitive interests.
 
 
 
-### 2. [Low temperature molten salt preparation of nano-SnO<sub>2</sub> as anode for lithium-ion batteries](https://doi.org/10.1016/j.matlet.2014.09.108)
+### 3. [Low temperature molten salt preparation of nano-SnO<sub>2</sub> as anode for lithium-ion batteries](https://doi.org/10.1016/j.matlet.2014.09.108)
 <h6> M.V. Reddy, Yu Tse Lee, Bruce Wen, B.V.R. Chowdari, Low temperature molten salt preparation of nano-SnO2 as anode for lithium-ion batteries,
 Materials Letters,
 Volume 138,
