@@ -18,7 +18,7 @@ author_profile: true
 ## Works in Progress
 
 ### 1. [Reserve Prices in Art Auctions](../files/auction_paper.pdf)
-> **Abstract**: This paper introduces a new nonparametric approach to the identification of ascending auctions and applies it to a large novel dataset of live art auctions that we constructed. We apply the approach, which requires only a lower bound on the number of bidders and the top two bids, to our dataset comprising complete bids from more than 2500 live auctions by Sotheby’s and Christie’s. New reserve prices for modern art sold in New York City are proposed, at approximately the high estimate. Compared to setting the reserve at the low estimate as is common practice today, our proposed re- serve increases average expected profits by up to 13.0% of the high estimate, equivalent to US$26,900,000 per auction.
+> **Abstract**: This paper introduces a new nonparametric approach to the identification of ascending auctions and applies it to a large novel dataset of live art auctions that we constructed. We apply the approach, which requires only a lower bound on the number of bidders and the top two bids, to our dataset comprising complete bids from more than 2500 live auctions by Sotheby’s and Christie’s. New reserve prices for modern art sold in New York City are proposed, at approximately the high estimate. Compared to setting the reserve at the low estimate as is common practice today, our proposed reserve increases average expected profits by up to 13.0% of the high estimate, equivalent to US$26,900,000 per auction.
 
 **Co-authors**: Kirill Ponomarev (UChicago)
 
