@@ -17,8 +17,8 @@ author_profile: true
 
 ## Works in Progress
 
-### 1. [Reserve Prices in Art Auctions (joint with Kirill Ponomarev)](../files/auction_paper.pdf)
-> **Abstract**: A large dataset of complete bids from the two largest auction houses in the world, Sotheby’s and Christie’s, is constructed via their YouTube livestream videos. Informative bounds on the number of bidders in each auction lot are also generated using audio transcripts from these videos. Using the top two bids in each auction lot and the estimated number of bidders, the profit bounds against reserve prices are estimated nonparametrically. To decide on a single best reserve price, the minimax-regret criterion is solved analytically and applied. In some subsamples, we propose new reserve prices that significantly increase profits by at least 7.6% to at most 17.7%, equivalent to hundreds of thousands of dollars per individual auction lot, showing that significant profits are lost when setting reserve prices at the low estimate.
+### 1. [Reserve Prices in Art Auctions](../files/auction_paper.pdf)
+> **Abstract**: This paper introduces a new nonparametric approach to the identification of ascending auctions and applies it to a large novel dataset of live art auctions that we constructed. We apply the approach, which requires only a lower bound on the number of bidders and the top two bids, to our dataset comprising complete bids from more than 2500 live auctions by Sotheby’s and Christie’s. New reserve prices for modern art sold in New York City are proposed, at approximately the high estimate. Compared to setting the reserve at the low estimate as is common practice today, our proposed re- serve increases average expected profits by up to 13.0% of the high estimate, equivalent to US$26,900,000 per auction.
 
 **Co-authors**: Kirill Ponomarev (UChicago)
 

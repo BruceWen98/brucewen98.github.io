@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-### [Resume](../files/wen_bruce_resume_Dec2023.pdf)
+### [Resume](../files/wen_bruce_resume_Apr2024.pdf)
