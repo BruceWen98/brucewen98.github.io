@@ -18,7 +18,7 @@ author_profile: true
 ## Works in Progress
 
 ### 1. [Optimal Reserve Prices in Art Auctions](../files/auction_paper.pdf)
-> **Abstract**: This paper introduces a new nonparametric approach to the identification of ascending auctions and applies it to a large novel dataset of live art auctions that we constructed. We apply the approach, which requires only a lower bound on the number of bidders and the top two bids, to our dataset comprising complete bids from more than 3500 live auctions by Sotheby’s and Christie’s. We additionally solve the minimax-regret problem applied to this partially-identified model and use it to propose new reserve prices. Compared to setting the reserve at the low estimate as is common practice today, our proposed reserve increases average expected profits by up to 17% of the high estimate, equivalent to up to US$30,000,000 per auction.
+> <span style="font-size: 0.9em;">This paper introduces a new nonparametric approach to the identification of ascending auctions and applies it to a large novel dataset of live art auctions that we constructed. We apply the approach, which requires only a lower bound on the number of bidders and the top two bids, to our dataset comprising complete bids from more than 3500 live auctions by Sotheby’s and Christie’s. We additionally solve the minimax-regret problem applied to this partially-identified model and use it to propose new reserve prices. Compared to setting the reserve at the low estimate as is common practice today, our proposed reserve increases average expected profits by up to 17% of the high estimate, equivalent to up to US$30,000,000 per auction.</span>
 
 **Co-authors**: Kirill Ponomarev (UChicago)
 
