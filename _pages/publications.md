@@ -18,7 +18,7 @@ author_profile: true
 ## Works in Progress
 
 ### 1. [Optimal Reserve Prices in Art Auctions](../files/auction_paper.pdf)
-> <span style="font-size: 0.9em;">This paper introduces a new approach to the identification of ascending auctions by bounding the correlation of valuations across bidders in a precise manner. We apply the approach, which requires only bounds on the number of bidders and the top two bids, to a large novel dataset comprising complete bids from more than 3500 live auctions by Christie’s and Sotheby’s. We additionally solve the minimax-regret problem applied to this partially-identified model and use it to propose new reserve prices. For modern art sold in New York City, our proposed reserve increases expected profits by 4.7% to 9.9% of the high estimate, equivalent to US\$4,900,000 to US\$10,400,000 per auction.</span>
+> <span style="font-size: 0.9em;">This paper introduces a new approach to the identification of ascending auctions by bounding the correlation of valuations across bidders in a precise manner. We apply the approach, which requires only bounds on the number of bidders and the top two bids, to a large novel dataset comprising complete bids from more than 3500 live auctions by Christie’s and Sotheby’s. We additionally solve the minimax-regret problem applied to this partially-identified model and use it to propose new reserve prices. For modern art sold in New York City, our proposed reserve increases expected profits by 4.7% to 9.9% of the high estimate, equivalent to USD4,900,000 to USD10,400,000 per auction.</span>
 
 **Co-authors**: Kirill Ponomarev (UChicago)
 
