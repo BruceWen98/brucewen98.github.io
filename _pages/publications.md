@@ -17,8 +17,8 @@ author_profile: true
 
 ## Works in Progress
 
-### 1. [Optimal Reserve Prices in Art Auctions](../files/auction_paper.pdf)
-> <span style="font-size: 0.9em;">This paper introduces a new approach to the identification of ascending auctions by bounding the correlation of valuations across bidders in a precise manner. We apply the approach, which requires only bounds on the number of bidders and the top two bids, to a large novel dataset comprising complete bids from more than 3500 live auctions by Christie’s and Sotheby’s. We additionally solve the minimax-regret problem applied to this partially-identified model and use it to propose new reserve prices. For modern art sold in New York City, our proposed reserve increases expected profits by 4.7% to 9.9% of the high estimate, equivalent to USD4,900,000 to USD10,400,000 per auction.</span>
+### 1. [Identification and Optimal Reserve Prices in Ascending Auctions, with an Application to Art](../files/auction_paper.pdf)
+> <span style="font-size: 0.9em;">This paper proposes a novel non-parametric approach to partial identification of the distribution of the highest bidder’s value, seller’s expected profit, and optimal reserve price in symmetric ascending auctions. Our approach restricts the distribution of bid- ders’ values away from the pure common- and independent private values settings, leading to substantially tighter bounds than those available in the literature, and ac- commodates an unknown number of bidders, as long as bounds on it are available. Moreover, we formulate and solve the min-max-regret problem for the seller choosing a reserve price while facing ambiguity about the distribution of bidders values. We apply the proposed methodology to a novel dataset comprising bids from more than 3500 live auctions held by the two largest auction houses, Christie’s and Sotheby’s. For Modern Art in New York City priced between $1.0M and $10.0M, we find that setting reserve prices 26% higher would increase the expected seller’s profit by at least $126K per lot or $3.8M per auction.</span>
 
 **Co-authors**: Kirill Ponomarev (UChicago)
 
