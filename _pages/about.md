@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economics at Yale University. My academic interests are in Econometrics and Industrial Organization.
+I am a PhD student in Economics at Yale University. My academic interests are broadly in Econometrics and Industrial Organization.
+
+Previously, I graduated from the University of Chicago.
+
+Here is my [CV](../files/wen_bruce_CV_July2025.pdf)

@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /resume/
+title: "CV"
+permalink: /CV/
 author_profile: true
 redirect_from:
-  - /resume
+  - /CV
 ---
 
-### [Resume](../files/wen_bruce_resume_Oct2024.pdf)
+### [CV](../files/wen_bruce_resume_Oct2024.pdf)
