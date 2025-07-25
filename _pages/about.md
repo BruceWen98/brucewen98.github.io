@@ -12,4 +12,4 @@ I am a PhD student in Economics at Yale University. My academic interests are br
 
 Previously, I graduated from the University of Chicago.
 
-Here is my [CV](../files/wen_bruce_CV_July2025.pdf)
+Here is my [CV](../files/wen_bruce_CV_July2025.pdf).
